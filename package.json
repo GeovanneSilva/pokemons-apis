@@ -1,0 +1,23 @@
+{
+  "name": "pokemons-apis",
+  "version": "1.0.0",
+  "description": "Api para meu projeto da pokedex",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeovanneSilva/pokemons-apis.git"
+  },
+  "author": "Geovanne Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeovanneSilva/pokemons-apis/issues"
+  },
+  "homepage": "https://github.com/GeovanneSilva/pokemons-apis#readme"
+}
